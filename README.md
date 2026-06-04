@@ -2,5 +2,5 @@
 This is my first repository.
 </br>
 <b>
-Durvaa(3rd year)
+Durvaa(3rd year IT)
 </b>
